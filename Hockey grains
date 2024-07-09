@@ -1,0 +1,82 @@
+<header>
+    <nav>
+        <ul>
+            <li><a href="#home">Inicio</a></li>
+            <li><a href="#about">Nuestra Misión</a></li>
+            <li><a href="#benefits">Beneficios</a></li>
+            <li><a href="#flavors">Sabores</a></li>
+            <li><a href="#testimonials">Testimonios</a></li>
+            <li><a href="#cta">Compra Ahora</a></li>
+        </ul>
+    </nav>
+    <div class="header-content">
+        <h1>Hochey Grains</h1>
+        <p>Energía Natural, Rendimiento Máximo</p>
+        <a href="#cta" class="cta-button">Compra Ahora</a>
+    </div>
+</header>
+<section id="home">
+    <div class="intro">
+        <h2>Siente la Diferencia con Hochey Grains</h2>
+        <p>Nuestras barras energéticas están hechas con ingredientes selectos, brindándote la fuerza y vitalidad que necesitas para enfrentar cada desafío.</p>
+        <img src="url-de-la-imagen-de-la-barra" alt="Hochey Grains">
+    </div>
+</section>
+<section id="about">
+    <div class="mission">
+        <h2>Nuestra Misión</h2>
+        <p>En Hochey Grains, estamos comprometidos a ofrecerte productos saludables y deliciosos. Creemos que la mejor nutrición proviene de la naturaleza, y por eso utilizamos solo ingredientes de la más alta calidad en nuestras barras energéticas.</p>
+    </div>
+</section>
+<section id="benefits">
+    <div class="benefits">
+        <h2>Beneficios para tu Salud</h2>
+        <ul>
+            <li>Mantiene niveles estables de energía</li>
+            <li>Apoya la salud digestiva</li>
+            <li>Proporciona una nutrición equilibrada</li>
+        </ul>
+    </div>
+</section>
+<section id="flavors">
+    <div class="flavors">
+        <h2>Encuentra tu Sabor Favorito</h2>
+        <div class="flavor-item">
+            <img src="url-imagen-sabor1" alt="Sabor 1">
+            <h3>Avena y Miel</h3>
+            <p>Un clásico lleno de dulzura natural.</p>
+        </div>
+        <div class="flavor-item">
+            <img src="url-imagen-sabor2" alt="Sabor 2">
+            <h3>Arándano y Almendra</h3>
+            <p>Una combinación atrevida y deliciosa.</p>
+        </div>
+        <!-- Más sabores aquí -->
+    </div>
+</section>
+<section id="testimonials">
+    <div class="testimonials">
+        <h2>Lo que Dicen Nuestros Clientes</h2>
+        <div class="testimonial-item">
+            <p>"Las barras energéticas Hochey Grains me han dado la energía que necesito para mis entrenamientos diarios. ¡Me encantan!" - Alex</p>
+        </div>
+        <div class="testimonial-item">
+            <p>"Son perfectas para llevar cuando salgo de excursión. Saben genial y me mantienen activa durante todo el día." - Sarah</p>
+        </div>
+        <!-- Más testimonios aquí -->
+    </div>
+</section>
+<section id="cta">
+    <div class="cta">
+        <h2>Compra Ahora y Siente la Energía</h2>
+        <a href="url-de-compra" class="cta-button">Compra Ahora</a>
+    </div>
+</section>
+<footer>
+    <p>&copy; 2024 Hochey Grains. Todos los derechos reservados.</p>
+    <div class="social-media">
+        <a href="url-facebook">Facebook</a>
+        <a href="url-twitter">Twitter</a>
+        <a href="url-instagram">Instagram</a>
+    </div>
+</footer>
